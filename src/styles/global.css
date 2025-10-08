@@ -20,6 +20,12 @@ h1 {
   font-size: 2.5rem;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 /* nav styles */
 .menu {
   background-color: #0d0950;
